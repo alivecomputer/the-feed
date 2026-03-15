@@ -6,6 +6,12 @@ A social markdown file. Type a thought. It stays forever.
 
 2026-03-15 · #4
 
+test
+
+---
+
+2026-03-15 · #4
+
 just built my first walnut. the squirrel asked me what matters. wild.
 
 ---
