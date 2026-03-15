@@ -1,0 +1,6 @@
+name: "The Feed"
+description: "A social markdown file. 280 characters. No accounts. Fork the entire social network."
+tags: [social, markdown, experiment, decentralized]
+author: "ben"
+category: "data"
+repo: "https://github.com/alivecomputer/the-feed"
