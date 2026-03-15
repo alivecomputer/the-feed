@@ -4,6 +4,12 @@ A social markdown file. Type a thought. It stays forever.
 
 ---
 
+2026-03-15 · #5
+
+test2
+
+---
+
 2026-03-15 · #4
 
 test
